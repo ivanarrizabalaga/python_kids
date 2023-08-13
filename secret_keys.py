@@ -22,4 +22,4 @@ while not gameover:
 if win :
     print('Ganaste!')
 else:
-    print('Bye bye loser!')    
+    print('Bye bye loserrrr!')    
